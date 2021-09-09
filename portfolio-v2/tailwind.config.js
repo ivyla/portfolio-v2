@@ -10,7 +10,8 @@ module.exports = {
             current: "currentColor",
             black: colors.black,
             grey: "#676767",
-            sage: "#8ABC90"
+            sage: "#8ABC90",
+            primary: "#A28CD0"
         },
         extend: {}
     },

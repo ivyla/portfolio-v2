@@ -1,5 +1,7 @@
+import Nav from "../components/Nav"
 const Home = () => (
-    <div className="h-screen bg-grey m-auto">
+    <div className="h-screen">
+        <Nav />
         <h1 className="text-4xl"> Lorem Ipsem </h1>
         <p className="text-2xl">Suspendisse fermentum sed</p>
         <p className="text-2xl">Donec hendrerit elit</p>
